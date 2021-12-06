@@ -1,0 +1,7 @@
+D:\.aWAT\5S\HTML i aplikacje webowe\lab\lab1\Lab1_Borkowska_Justyna\bin\Lab1_Borkowska_Justyna.dll.config
+D:\.aWAT\5S\HTML i aplikacje webowe\lab\lab1\Lab1_Borkowska_Justyna\bin\Lab1_Borkowska_Justyna.dll
+D:\.aWAT\5S\HTML i aplikacje webowe\lab\lab1\Lab1_Borkowska_Justyna\bin\Lab1_Borkowska_Justyna.pdb
+D:\.aWAT\5S\HTML i aplikacje webowe\lab\lab1\Lab1_Borkowska_Justyna\obj\Debug\Lab1_Borkowska_Justyna.csproj.AssemblyReference.cache
+D:\.aWAT\5S\HTML i aplikacje webowe\lab\lab1\Lab1_Borkowska_Justyna\obj\Debug\Lab1_Borkowska_Justyna.csproj.CoreCompileInputs.cache
+D:\.aWAT\5S\HTML i aplikacje webowe\lab\lab1\Lab1_Borkowska_Justyna\obj\Debug\Lab1_Borkowska_Justyna.dll
+D:\.aWAT\5S\HTML i aplikacje webowe\lab\lab1\Lab1_Borkowska_Justyna\obj\Debug\Lab1_Borkowska_Justyna.pdb
